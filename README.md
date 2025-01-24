@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 📫 How to reach me: 
-    - using by telegeram (https://t/me/@eovtelega)  
+    - using by telegeram ([@eovtelega](https://t.me/eovtelega))  
     - email: (https://vis-evgenij@yandex.ru)  
 
 
