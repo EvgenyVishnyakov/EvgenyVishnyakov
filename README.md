@@ -1,15 +1,16 @@
-## My name is Evgeny Vishnyakov 👋
+## Меня зовут Евгений Вишняков 👋
 
 
- 🔭 I’m currently working on sales and special projects.  
- I working in sales and take part in projects for developing.  
- I have projects in WinForms(plays), MVC as onlineshop    
- 🌱 I’m using C#, Phyton, QA testing  
- How to reach me:  
-    - telegeram: ([@eovtelega](https://t.me/eovtelega))  
-    - email: vis-evgenij@yandex.ru  
+ Я очень много проработал в международных компаниях на руководящих позициях по направлению продаж.  
+ Имею огромный опыт управленческой работы и высокие softskills.  
+ Программирую на Pyton, C#, тестирую ПО нагрузочным тестированием  
+ Имею несколько проектов на разных платформах WinForms(plays), проект MVC в виде онлайнмагазина.    
 
-    ### Статистика на GitHub
+## Связаться со мной:  
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)]([https://t.me/eovtelega])  
+[![Email](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=Email&logoColor=FF0000)](https://vis-evgenij@yandex.ru)
+
+### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenyvishnyakov&show_icons=true&hide=prs,issues,contribs&theme=dark)  
 
 ### Мой стек технологий  
