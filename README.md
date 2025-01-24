@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-📫 How to reach me: 
+📫 How to reach me:  
     - using by telegeram ([@eovtelega](https://t.me/eovtelega))  
     - email: (https://vis-evgenij@yandex.ru)  
 
