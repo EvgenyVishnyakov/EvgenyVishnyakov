@@ -2,7 +2,7 @@
 
 
  🔭 I’m currently working on sales and special projects   
- 🌱 I’m currently learning C#, Phyton, QA testing  
+ 🌱 I’m using C#, Phyton, QA testing  
  How to reach me:  
     - telegeram: ([@eovtelega](https://t.me/eovtelega))  
     - email: vis-evgenij@yandex.ru  
