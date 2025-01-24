@@ -8,6 +8,6 @@
 
 📫 How to reach me:  
     - telegeram: ([@eovtelega](https://t.me/eovtelega))  
-    - email: (vis-evgenij@yandex.ru)  
+    - email: vis-evgenij@yandex.ru  
 
 
