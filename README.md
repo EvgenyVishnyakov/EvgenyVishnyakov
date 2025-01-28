@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
 </a>  
 <a href="vis-evgenij@yandex.ru">
-    <img src="https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=Email&logoColor=FF0000" />
+    Написать
 </a>  
 
 ### Статистика на GitHub
