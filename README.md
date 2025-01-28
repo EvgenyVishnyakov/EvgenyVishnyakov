@@ -10,9 +10,7 @@
 <a href="https://t.me/eovtelega">
     <img src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
 </a>  
-<a href="vis-evgenij@yandex.ru">
-    Написать
-</a>  
+<p>Email: vis-evgenij@yandex.ru</p>
 
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenyvishnyakov&show_icons=true&hide=prs,issues,contribs&theme=dark)  
