@@ -6,11 +6,13 @@
  Программирую на Python, C#, тестирую ПО нагрузочным тестированием  
  Имею несколько проектов на разных платформах WinForms, проект MVC в виде онлайнмагазина.    
 
-## Связаться со мной:  
+## Связаться со мной:
+<img src="https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=email&logoColor=27A0D9" />
+<h3>: vis-evgenij@yandex.ru</h3>
 <a href="https://t.me/eovtelega">
     <img src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
 </a>  
-<p>Email: vis-evgenij@yandex.ru</p>
+
 
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenyvishnyakov&show_icons=true&hide=prs,issues,contribs&theme=dark)  
