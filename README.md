@@ -8,7 +8,9 @@
 
 ## Связаться со мной:  
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)]([https://t.me/eovtelega])  
-<a href="https://t.me/eovtelega">Написать</a>
+<a href="https://t.me/eovtelega">
+<img src="https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
+</a>
 <img src="https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=Email&logoColor=FF0000" />  : vis-evgenij@yandex.ru
 
 ### Статистика на GitHub
