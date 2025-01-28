@@ -8,7 +8,7 @@
 
 ## Связаться со мной:  
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)]([https://t.me/eovtelega])  
-[![Email](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=Email&logoColor=FF0000)](https://vis-evgenij@yandex.ru)
+<img src="https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=Email&logoColor=FF0000" />  : vis-evgenij@yandex.ru
 
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenyvishnyakov&show_icons=true&hide=prs,issues,contribs&theme=dark)  
